@@ -1,0 +1,7 @@
+/home/user/documents/file1.txt
+/home/user/pictures/photo.jpg
+/home/user/music/song.mp3
+/home/user/videos/video.mp4
+/home/user/documents/projects/project1/code.c
+/home/user/documents/projects/project2/README.md
+/home/user/downloads/file2.txt
